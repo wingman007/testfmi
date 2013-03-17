@@ -1,6 +1,6 @@
 <?php
-error_reporting(E_ALL|E_STRICT);
-error_reporting(E_ALL^E_NOTICE);
+// error_reporting(E_ALL|E_STRICT);
+// error_reporting(E_ALL^E_NOTICE);
 ini_set('display_errors', 1);
 // PHP_INI_ALL display_errors
 // An example that sets the value of these directives to Off in php.ini. For additional details, read the manual section titled How to change configuration settings. 
